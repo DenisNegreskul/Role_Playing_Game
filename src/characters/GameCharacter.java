@@ -1,3 +1,5 @@
+package characters;
+
 public abstract class GameCharacter implements Attacker {
     protected String name;
     protected int health;

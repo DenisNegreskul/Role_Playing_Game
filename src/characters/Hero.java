@@ -1,3 +1,5 @@
+package characters;
+
 public class Hero extends GameCharacter {
     private int level = 1;
 
